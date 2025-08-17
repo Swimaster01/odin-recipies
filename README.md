@@ -1,2 +1,5 @@
-This should work
-I hope so
+How about 
+multiple
+lines to commit
+and push
+after adding
