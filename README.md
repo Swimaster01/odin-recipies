@@ -3,3 +3,5 @@ multiple
 lines to commit
 and push
 after adding
+what is going on
+I have a long way to go with learning git
