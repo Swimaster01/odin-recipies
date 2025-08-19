@@ -1,24 +1,11 @@
-console.log("This one has been written using separate js file");
+const name = "John";
+const greeting = `Hello, ${name}!`;
+console.log(greeting);
 
-let name = "John";
-let surname = "Doe";
+//Function
 
-console.log(name);
-console.log(surname);
+function favoriteAnimal(animal) {
+  return animal + " is my favorite animal!";
+}
 
-// Re-assigning variables
-
-let age = 11;
-console.log(age);
-
-age = 54;
-console.log(age);
-
-//Adding 2 numbers
-
-console.log(5 + 10); // This will output 15
-
-let num1 = 23;
-let num2 = 24;
-
-console.log(num1 + num2); // This will output 47
+console.log(favoriteAnimal("Bird"));
